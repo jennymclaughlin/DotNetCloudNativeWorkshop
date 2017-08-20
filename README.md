@@ -1,7 +1,7 @@
 # .NET Cloud Native Workshop
-In this workshop, you will learn the benefits of Cloud Native and how Pivotal Cloud Foundry can help you move your .NET applications quickly and safely from idea to production.
+In this workshop, we will learn the benefits of Cloud Native and how Pivotal Cloud Foundry can help us move your .NET applications quickly and safely from idea to production.
 
-The goal is for you to see that it is easy to move toward a better way of building and operating your .NET applications. Consequently, you can help your business innovate faster.
+It is easy to move toward a better way of building and operating our .NET applications. Consequently, we can help your business innovate faster.
 
 ## Prerequisites
 - [Cloud Foundry CLI](https://github.com/cloudfoundry/cli/releases)
