@@ -14,14 +14,17 @@ It is easy to move toward a better way of building and operating our .NET applic
 ## Workshop Sessions
 
 #### Session 1: Cloud Native and PCF - [Start Session](Session-01/AppMgr-Login/README.md)
-  - Presentation: Cloud Native and PCF
-  - AppManager Refresh - Review AppManager layout and confirm login credentials
-  - Lab 1 - Clone Source and Push
-  - Presentation: Services
-  - Lab 2 - Using MySql as Data Store
-  - Presentation: Day 2 operations
+  - Presentation: Cloud Native and PCF(40 mins)
+  - AppManager Refresh - Review AppManager layout and confirm login credentials (prep work)
+  - Lab 1 - Clone Source and Push (20 mins)
+  - Presentation: PCF architecture (20 mins)
+  - Lab 2 - Bind, Scale, and HA (20 mins) maybe bind to a SQL server 
+  - Presentation: Day 2 operations (??)
   - Lab 3 - Auto Scaling the App Instances
   - Lab 4 - Zero Downtime Deployments
+  
+#### Session 3: App Replatforming 
+  - Presentation: Legacy App Replatfoming path and best practices (60 mins)
 
 #### Session 2: Spring Cloud Services and the SteelToe Framework - [Start Session](Session-02/Lab-05/README.md)
   - Presentation: Spring Cloud
@@ -29,7 +32,6 @@ It is easy to move toward a better way of building and operating our .NET applic
   - Lab 6 - Service Discovery through Eureka
   - Lab 7 - Refactor DotNet for Service Discovery
 
-#### Session 3: App Replatforming 
-  - Presentation: Legacy App Replatfoming path
+
 
 
