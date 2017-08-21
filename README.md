@@ -1,5 +1,7 @@
-# DotNet Core with SteelToe Workshop
-This workshop assumes the student has a basic understanding of Pivotal Cloud Foundry, with regard to pushing apps and the AppManager. The first day will start with a brief refresh of Org/Space/App in AppManager and confirm all attendees have correct desktops tools installed. A brief slide deck will be shown about the hands-on labs, with the majority of time for hands-on execution. All labs are focused on DotNet Core application development.
+# .NET Cloud Native Workshop
+In this workshop, we will learn the benefits of Cloud Native and how Pivotal Cloud Foundry can help us move your .NET applications quickly and safely from idea to production.
+
+It is easy to move toward a better way of building and operating our .NET applications. Consequently, we can help your business innovate faster.
 
 ## Prerequisites
 - [Cloud Foundry CLI](https://github.com/cloudfoundry/cli/releases)
@@ -11,20 +13,23 @@ This workshop assumes the student has a basic understanding of Pivotal Cloud Fou
 
 ## Workshop Sessions
 
-#### Session 1: DotNet Core Deployment with High availability - [Start Session](Session-01/AppMgr-Login/README.md)
+#### Session 1: Cloud Native and PCF - [Start Session](Session-01/AppMgr-Login/README.md)
+  - Presentation: Cloud Native and PCF
   - AppManager Refresh - Review AppManager layout and confirm login credentials
   - Lab 1 - Clone Source and Push
+  - Presentation: Services
   - Lab 2 - Using MySql as Data Store
+  - Presentation: Day 2 operations
   - Lab 3 - Auto Scaling the App Instances
   - Lab 4 - Zero Downtime Deployments
 
 #### Session 2: Spring Cloud Services and the SteelToe Framework - [Start Session](Session-02/Lab-05/README.md)
-  - Lab 5 - Refactor DotNet Core with MySql Abstractions
+  - Presentation: Spring Cloud
+  - Lab 5 - Refactor .NET with MySql Abstractions
   - Lab 6 - Service Discovery through Eureka
-  - Lab 7 - Refactor DotNet Core for Service Discovery
+  - Lab 7 - Refactor DotNet for Service Discovery
 
-#### Session 3: Spring Cloud Services and Spring Cloud Data Flow - [Start Session](https://github.com/timmers-io/SpringCloudWorkshop)
-  - Spring Cloud Data Flow and GemFire Overview
-  - Binding to GemFire
-  - Spring Cloud Data Flow and GemFire
+#### Session 3: App Replatforming 
+  - Presentation: Legacy App Replatfoming path
+
 
