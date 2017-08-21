@@ -3,7 +3,7 @@
 [appManagerMySql]: img/appManagerMySql.png " "
 [vsCodeManifest]: img/vsCodeManifest.png " "
 
-# Lab 02 - Bind a service
+# Lab 02 - Bind, Scale and HA
 
 ## Bind MySql to App
 1. In AppManager, click the Marketplace link in left box.
@@ -14,6 +14,12 @@
 ![alt text][appManagerMySqlValues]
 4. Restart and view the app
 5. Add more attendees and delete some attendees
+
+## Scale the App manually
+1. Change the number of instances to 3
+2. Refresh the page and watch the instance index changes. it should be round robin.
+
+## Kill one instance
 
 
 
