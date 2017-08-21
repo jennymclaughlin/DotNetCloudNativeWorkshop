@@ -13,6 +13,7 @@
 3. Click the blue 'Select this plan' button, name the new instance as mysql-100mb, select the <STUDENT-X> space, select the fortune-teller-services app, and click the blue 'Add' button
 ![alt text][appManagerMySqlValues]
 4. Restart and view the app
+5. Add more attendees and delete some attendees
 
 
 
