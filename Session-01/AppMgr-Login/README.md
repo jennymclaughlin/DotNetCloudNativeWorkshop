@@ -28,7 +28,7 @@ Targeted space <STUDENT-X>
 
 API endpoint:   <CF_API_PROVIDED_BY_INSTRUCTOR>
 User:           <STUDENT-X>
-Org:            Vantage
+Org:            West
 Space:          <STUDENT-X>
 ```
 7. Great! You have confirmed proper access to PCF.
