@@ -62,7 +62,7 @@ Space:          <STUDENT-X>
 ```
 3. Push the app
 ```
-> cf push <appName>-studentX 
+> cf push <dotnetCoreappName>-studentX 
 ```
 ** No need to specifiy the windows stack
 
